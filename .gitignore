@@ -1,0 +1,13 @@
+.DS_Store
+Classification/__pycache__
+Segmentation/__pycache__
+Classification/events*
+Segmentation/events*
+Classification/Classlog
+Classification/Smaller_Set
+Segmentation/logs
+Segmentation/OutputImages
+Segmentation/Accuracy.txt
+temp-plot.html
+Segmentation/CNN_Images
+Classification/CNN_Images
