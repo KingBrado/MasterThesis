@@ -1,0 +1,3 @@
+# Segmentation and Classification of Breast Cancer Images
+The purpose of the Thesis was to try to understand the relevant features a Convolutional Neural Network (CNN) needs to learn to classify breast cancer types. Thus, did I first segment the images, classifying the regions in 4 semantic types. The classifier was then supposed to learn from the four colours, a much harder task considering that the information in the segemented images was much less than in the original images. 
+The Segmentation folder contains the part for Segmentation, while the Classification folder the corresponding classifier. The "main" files, in either folder, are name Run*.py
